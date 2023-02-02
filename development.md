@@ -15,7 +15,9 @@ module.exports = {
     extend: {},  
   },  
   plugins: [],  
-}`
+}`  
+
+npm i react-helmet-async  
 
 
 
